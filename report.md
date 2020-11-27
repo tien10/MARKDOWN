@@ -14,6 +14,23 @@
 - Link: https://github.com/wix/react-native-calendars
 
 3. ### Tối ưu code và giao diện
+4. ### React Native
+
+- Framework làm app native dùng JavaScript
+- 2 cách làm:
+  - expo cli
+  - react native cli
+- Cài đặt môi trường:
+  - NodeJS: https://nodejs.org/en/ (**node -v**)
+  - Cài expo-cli: **npm i -g expo-cli** (expo-cli -V)
+  - Visual Studio Code: https://code.visualstudio.com/
+  - Extensions: React Native Tools, React-Native/React/Redux snippets for es6/es7, Prettier - Code formatter, Material Icon Theme
+  - Tạo app: **expo init tenapp**
+  - Chạy app: **npm start**
+
+## **27/11/2020**
+
+1. ### Unit Test
 
 <div style="page-break-after: always;"></div>
 
